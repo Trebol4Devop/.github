@@ -1,6 +1,6 @@
 <div align="center">
 
-#Trebol4Devop
+# Trebol4Devop
 
 ### Innovación • Código • Escalabilidad
 
@@ -68,8 +68,8 @@ Nos especializamos en arquitectura de software, automatización y soluciones esc
 
 Si nuestras herramientas te han sido útiles o quieres apoyar nuestro desarrollo como estudiantes, puedes invitarnos un café.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/TU_USUARIO)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/TU_USUARIO)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/trebol4devop)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/TrebolDevop)
 
 <br>
 
