@@ -2,6 +2,8 @@
 
 # Trebol4Devop
 
+<img src="https://avatars.githubusercontent.com/u/244559435?s=200&v=4"/>
+
 ### Innovación • Código • Escalabilidad
 
 <p>
@@ -12,7 +14,7 @@ Nos especializamos en arquitectura de software, automatización y soluciones esc
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 **Desarrollo de Software & Sistemas**
 <br>
@@ -23,48 +25,63 @@ Nos especializamos en arquitectura de software, automatización y soluciones esc
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/ARM64-%230091BD.svg?style=for-the-badge&logo=arm&logoColor=white"/>
 
+
 **Desarrollo Web & Móvil**
 <br>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
+**Frameworks & Librerías Backend**
+<br>
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 
 **Infraestructura & Herramientas**
 <br>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/grafana-%23F2CC0C.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongodb-%234db33d.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
 
 </div>
 
 ---
 
-## 👥 Nuestro Equipo
+## Nuestro Equipo
 
 <div align="center">
 
 | <sub><b>José Monzón</b></sub> | <sub><b>Diego Vásquez</b></sub> | <sub><b>Carlos del Cid</b></sub> | <sub><b>Ottoniel Vásquez</b></sub> |
 | :---: | :---: | :---: | :---: |
 | <a href="https://github.com/0520Jose"><img src="https://github.com/0520Jose.png" width="100px"/></a> | <a href="https://github.com/DiegVas"><img src="https://github.com/DiegVas.png" width="100px"/></a> | <a href="https://github.com/Carlosdelcid05"><img src="https://github.com/Carlosdelcid05.png" width="100px"/></a> | <a href="https://github.com/Farot3"><img src="https://github.com/Farot3.png" width="100px"/></a> |
-| 💻 **Full Stack** | 🎨 **Frontend** | 🚀 **Backend** | ⚙️ **DevOps** |
+| **Full Stack** | **Frontend** | **Backend** | **Backend** |
 
 </div>
 
 <br>
 
-## 📌 Proyectos Destacados
+## Proyectos Destacados
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **🚧 En Construcción** | Próximamente publicaremos nuestras herramientas open source. | `...` |
-| **🚧 En Construcción** | Próximamente publicaremos nuestras herramientas open source. | `...` |
+| **SAMNU** | Software para solucion de problemas matematicos nivel universitario. | `Flutter • Dart` |
+| **En Construcción** | Próximamente publicaremos nuestras herramientas open source. | `...` |
 
 ---
 
 <div align="center">
 
-## ☕ Apoya nuestro trabajo
+## Apoya nuestro trabajo
 
 Si nuestras herramientas te han sido útiles o quieres apoyar nuestro desarrollo como estudiantes, puedes invitarnos un café.
 
@@ -73,6 +90,6 @@ Si nuestras herramientas te han sido útiles o quieres apoyar nuestro desarrollo
 
 <br>
 
-📫 **Contacto:** [trebol4devop@proton.me](mailto:trebol4devop@proton.me)
+**Contacto:** [trebol4devop@proton.me](mailto:trebol4devop@proton.me)
 
 </div>
