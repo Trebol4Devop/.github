@@ -72,7 +72,7 @@ Nos especializamos en arquitectura de software, automatización y soluciones esc
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **SAMNU** | Software para solucion de problemas matematicos nivel universitario. | `Flutter • Dart` |
+| **SAMNU** | Software para solución de problemas matemáticos nivel universitario. | `Flutter • Dart` |
 | **En Construcción** | Próximamente publicaremos nuestras herramientas open source. | `...` |
 
 ---
