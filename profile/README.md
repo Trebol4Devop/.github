@@ -62,7 +62,7 @@ Nos especializamos en arquitectura de software, automatización y soluciones esc
 | <sub><b>José Monzón</b></sub> | <sub><b>Diego Vásquez</b></sub> | <sub><b>Carlos del Cid</b></sub> | <sub><b>Ottoniel Vásquez</b></sub> |
 | :---: | :---: | :---: | :---: |
 | <a href="https://github.com/0520Jose"><img src="https://github.com/0520Jose.png" width="100px"/></a> | <a href="https://github.com/DiegVas"><img src="https://github.com/DiegVas.png" width="100px"/></a> | <a href="https://github.com/Carlosdelcid05"><img src="https://github.com/Carlosdelcid05.png" width="100px"/></a> | <a href="https://github.com/Farot3"><img src="https://github.com/Farot3.png" width="100px"/></a> |
-| **Full Stack** | **Frontend** | **Backend** | **Backend** |
+| **Backend Developer** | **Frontend Developer** | **Backend Developer** | **Backend Developer* |
 
 </div>
 
