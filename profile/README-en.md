@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Trébol4Devop
+<img src="https://github.com/Trebol4Devop/Dependencias_aplicaciones/blob/main/TREBOL4DEVOP/Trebol4Devop-git.png" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=5CCFAF&center=true&vCenter=true&width=600&lines=Innovation+%E2%80%A2+Code+%E2%80%A2+Scalability;Software+Architecture;Open+Source+Solutions;Automation+%26+Deployment" alt="Typing SVG" />
 
