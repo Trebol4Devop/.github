@@ -21,8 +21,16 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=trebol4devop&show_icons=true&theme=transparent&hide_border=true&title_color=5CCFAF&text_color=888888&icon_color=5CCFAF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trebol4devop&layout=compact&theme=transparent&hide_border=true&title_color=5CCFAF&text_color=888888" alt="Top Languages" width="48%" />
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=trebol4devop&show_icons=true&theme=transparent&hide_border=true&title_color=5CCFAF&text_color=888888&icon_color=5CCFAF" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trebol4devop&layout=compact&theme=transparent&hide_border=true&title_color=5CCFAF&text_color=888888" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -84,7 +92,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3> SAMNU</h3>
-      <img src="https://samnu.netlify.app/assets/images-proyects/logos/Logo%20SANMU%20-%20sin%20fondo%20sin%20nombre.png">
+      <img src="https://samnu.netlify.app/assets/images-proyects/logos/Logo%20SANMU%20-%20sin%20fondo%20sin%20nombre.png" width="120px">
       <p>Software para solución de problemas matemáticos nivel universitario. Diseñado para superar los límites del cálculo manual mediante un enfoque paso a paso.</p>
       <br>
       <p>
