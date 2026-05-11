@@ -16,10 +16,14 @@
 </p>
 
 <a href="mailto:trebol4devop@proton.me">
-  <img src="https://img.shields.io/badge/Contactanos-trebol4devop%40proton.me-5CCFAF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Contactanos-trebol4devop%40proton.me-5CCFAF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" style="vertical-align: middle;" />
 </a>
 
-<a src="https://www.linkedin.com/company/trebol4devop/">Linkedin</a>
+&nbsp;
+
+<a href="https://www.linkedin.com/company/trebol4devop/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn" style="vertical-align: middle;" />
+</a>
 
 <br><br>
 
@@ -111,7 +115,7 @@
       <p>
         <img src="https://img.shields.io/badge/En_Construcción-5CCFAF?style=flat-square" alt="Construccion" />
       </p>
-      <a href="https://github.com/trebol4devop">👀 Mantente al tanto</a>
+      <p> Mantente al tanto</p>
     </td>
   </tr>
 </table>
