@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trebol4Devop/Dependencias_aplicaciones/main/TREBOL4DEVOP/Trebol4Devop-git.png" width="100%" alt="Trebol4Devop Banner" />
+  <img src="https://github.com/Trebol4Devop/Dependencias_aplicaciones/blob/main/TREBOL4DEVOP/Trebol4Devop-git.png" />
 </div>
 
 <br/>
